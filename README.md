@@ -1,58 +1,160 @@
+<div align="center">
+  
 # 👋 Hi, I'm Ismail Chaoufi
 
-🚀 Full-Stack Engineer | Spring Boot & Angular | Microservices | DevOps Enthusiast
+### 🚀 Full-Stack Engineer | Spring Boot • Angular • Microservices • DevOps
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I’m a Full-Stack Engineer specialized in building scalable web applications using **Spring Boot**, **Angular**, and **microservices architecture**.  
-Currently focused on **DevOps practices**, **CI/CD pipelines**, and **cloud-native applications**.
+I'm a **Full-Stack Engineer** specialized in building **scalable web applications** using **Spring Boot** and **Angular**.  
+I design **microservices-based systems** and I'm currently deepening my skills in **DevOps**, **CI/CD pipelines**, and **cloud-native architectures**.
+
+💼 **Currently seeking opportunities** to showcase my technical and soft skills in a dynamic team environment.
+
+✨ **What I bring to the table:**
+- 💪 **Strong technical skills** in Full-Stack development (Java Spring Boot & Angular)
+- 🗣️ **Excellent communication** and interpersonal abilities
+- 🤝 **Team collaboration** – I thrive in collaborative environments
+- 📋 **Agile project management** – Experienced with Scrum and Agile methodologies
+- 🎯 **Problem-solving mindset** – I love tackling complex challenges
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- Java | Spring Boot | Spring Cloud
-- Microservices | REST APIs | JWT | OAuth2
+### **Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![KeyCloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
-### Frontend
-- Angular | TypeScript | HTML | CSS | Bootstrap
+**Key Skills:** REST APIs • Microservices Architecture • JWT Authentication • OAuth2 • KeyCloak
 
-### DevOps
-- Docker | Docker Compose
-- GitHub Actions (CI/CD)
-- Kubernetes (learning)
-- Nginx
+### **Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Database
-- PostgreSQL | MySQL
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**DevOps Skills:** Docker • Docker Compose • CI/CD Pipelines • GitHub Actions • Kubernetes (learning)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🗂️ Kanban Microservices App
-🔹 Microservices architecture (Auth, Project, Task)  
-🔹 Spring Boot + Angular  
-🔹 Dockerized services  
-🔹 API Gateway + Eureka  
-🔹 CI/CD with GitHub Actions  
+### 🗂️ **Kanban Board – Microservices Architecture**
+A complete project management application built with microservices architecture.
 
-👉 **Repo:** [Kanban Microservices](https://github.com/USERNAME/REPO)
+**Tech Stack:**
+- ⚙️ **Backend:** Spring Boot microservices (Auth Service, Project Service, Task Service)
+- 🌐 **API Gateway** + Eureka Service Discovery
+- 🎨 **Frontend:** Angular with TypeScript
+- 🐳 **DevOps:** Dockerized services with Docker Compose
+- 🚀 **CI/CD:** Automated pipelines with GitHub Actions
+
+**Features:**
+- User authentication & authorization (JWT + KeyCloak)
+- Project and task management
+- Real-time updates
+- Scalable microservices architecture
+
+🔗 **Repository:** [github.com/USERNAME/kanban-microservices](https://github.com/USERNAME/kanban-microservices)
+
+---
+
+### 📊 **[Your Second Project Name]**
+Brief description of another impressive project you've built.
+
+🔗 **Repository:** [github.com/USERNAME/project-name](https://github.com/USERNAME/project-name)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">
+  
+![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+- ☸️ **Kubernetes** (Pods, Services, Deployments, Scaling)
+- ☁️ **Cloud Deployment** (Railway, AWS basics)
+- 🔄 **Advanced CI/CD pipelines** with GitHub Actions
+- 🏗️ **Cloud-native architectures** and best practices
+- 🔐 **Security best practices** in microservices
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm actively looking for opportunities to contribute to exciting projects and work with talented teams.
+
+**What I'm looking for:**
+- 💼 Full-Stack Developer positions (Java Spring Boot + Angular)
+- 🚀 Projects involving microservices and cloud technologies
+- 🤝 Collaborative team environments with Agile methodologies
+- 📚 Opportunities to learn and grow as a developer
+
+**My Strengths:**
+- ✅ Strong problem-solving and analytical skills
+- ✅ Excellent communication and teamwork
+- ✅ Experience with Agile/Scrum project management
+- ✅ Passionate about clean code and best practices
+- ✅ Quick learner and adaptable to new technologies
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your.email@gmail.com
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+**📧 Email:** your.email@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
+
+⭐️ **If you like my work, feel free to give my repositories a star!** ⭐️
+
+</div>

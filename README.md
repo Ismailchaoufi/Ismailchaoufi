@@ -117,11 +117,11 @@ I'm actively looking for opportunities to contribute to exciting projects and wo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ismail-chaoufi-236528240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-chaoufi-236528240/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaoufiismail6@gmail.com)
 
 **📧 Email:** Chaoufiismail6@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/your-profile](linkedin.com/in/ismail-chaoufi-236528240/)
+**💼 LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/ismail-chaoufi-236528240/)
 
 </div>
 

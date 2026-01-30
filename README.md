@@ -4,9 +4,9 @@
 
 ### 🚀 Full-Stack Engineer | Spring Boot • Angular • Microservices • DevOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-chaoufi-236528240/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaoufiismail6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismailchaoufi)
 
 </div>
 
@@ -80,35 +80,14 @@ A complete project management application built with microservices architecture.
 - Real-time updates
 - Scalable microservices architecture
 
-🔗 **Repository:** [github.com/USERNAME/kanban-microservices](https://github.com/USERNAME/kanban-microservices)
-
----
-
-### 📊 **[Your Second Project Name]**
-Brief description of another impressive project you've built.
-
-🔗 **Repository:** [github.com/USERNAME/project-name](https://github.com/USERNAME/project-name)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true)
-
-</div>
+🔗 **Repository:** [github.com/Ismailchaoufi/Kanban-Project-Microservices](https://github.com/Ismailchaoufi/Kanban-Project-Microservices)
 
 ---
 
 ## 🎯 Currently Learning
 
 - ☸️ **Kubernetes** (Pods, Services, Deployments, Scaling)
-- ☁️ **Cloud Deployment** (Railway, AWS basics)
+- ☁️ **Cloud Deployment** (AWS basics)
 - 🔄 **Advanced CI/CD pipelines** with GitHub Actions
 - 🏗️ **Cloud-native architectures** and best practices
 - 🔐 **Security best practices** in microservices
@@ -138,12 +117,11 @@ I'm actively looking for opportunities to contribute to exciting projects and wo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ismail-chaoufi-236528240/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaoufiismail6@gmail.com)
 
-**📧 Email:** your.email@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**📧 Email:** Chaoufiismail6@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/your-profile](linkedin.com/in/ismail-chaoufi-236528240/)
 
 </div>
 
@@ -152,9 +130,5 @@ I'm actively looking for opportunities to contribute to exciting projects and wo
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
-
-⭐️ **If you like my work, feel free to give my repositories a star!** ⭐️
 
 </div>
